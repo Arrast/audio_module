@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "asset_manager": "master",
+    "singleton": "master"
+  },
+  "unityDependencies": []
+}
